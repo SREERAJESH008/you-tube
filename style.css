@@ -1,0 +1,20 @@
+body{
+background-color: dimgray;
+
+}
+.heading{
+    font-size: 3rem;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: auto;
+    
+}
